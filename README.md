@@ -1,4 +1,4 @@
-# MyVerilogLibrary
+# My Verilog Library
 ## (As of June 2023 still being updated)
 
 My Library of Verilog Modules and Functions
