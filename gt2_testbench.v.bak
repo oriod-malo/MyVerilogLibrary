@@ -1,0 +1,8 @@
+'timescale 1ns/1ps
+
+module gt2_testbench;
+	reg [1:0] test_a, test_b;
+	wire test_out;
+	
+	/* Instantiate the Circuit Under Test */
+	gt2 cut(.a(test_a), .b(test_b), .result(test_out));

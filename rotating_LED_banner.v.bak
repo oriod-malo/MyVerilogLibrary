@@ -1,0 +1,7 @@
+module rotating_LED_banner
+		(
+		input wire clk,
+		input wire dir, en,
+		output wire [7:0] bcd0,bcd1,bcd2,bcd3,bcd4,bcd5);
+
+endmodule

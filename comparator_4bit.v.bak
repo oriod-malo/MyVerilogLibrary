@@ -1,0 +1,6 @@
+module comparator4bit(
+		Data_in_A,
+		Data_in_B,
+		less,
+		equal,
+		greater);

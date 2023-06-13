@@ -1,0 +1,8 @@
+module c6_e6_3_2_debouncer
+			(
+			input wire clk, reset,
+			input wire in,
+			output wire out
+			);
+			
+endmodule

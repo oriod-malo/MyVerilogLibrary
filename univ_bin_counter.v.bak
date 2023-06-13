@@ -1,0 +1,5 @@
+module univ_bin_counter
+	#(parameter N=8)
+	
+
+endmodule

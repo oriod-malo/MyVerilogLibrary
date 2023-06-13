@@ -1,0 +1,11 @@
+/*
+	Embedded SoPC Design with Nios II Processor and Verilog Examples
+								Excercise 5.9.3 Pg.133
+	Rotating Square circuit
+								Solution by Oriod Malo (02 June 2023)
+								
+	Notes: The original text suggests the excercise using a DE1 board which
+	has 4 7-Segment BCDs, while this solution is for DE10 Lite Which has 6 7-Segment BCDs
+*/
+
+module rotatingSquare_de10lite
