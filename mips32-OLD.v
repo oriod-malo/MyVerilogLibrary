@@ -1,5 +1,5 @@
 module mips32(clk1, clk2);
-
+// Find the new mips32CPU here: https://github.com/oriod-malo/Custom-MIPS32-CPU
 			input wire clk1, clk2;
 			
 			// IF_ID_ registers
