@@ -1,5 +1,5 @@
 # My Verilog Library
-## (As of June 2023 still being updated)
+## (UPDATE: 25 June 2023: MIPS32 CPU is completed and it's a repository of its own)
 
 My Library of Verilog Modules and Functions
 
@@ -10,7 +10,8 @@ They are made to simulate on a DE10 Lite FPGA using Quartus
 UART Transmitter 
 
 ## List of modules NOT based on the book 
-* MIPS 32 CPU (mips32.v) - my next big project. A MIPS32 CPU with a significant amount of Instruction Set commands implemented still WIP. Will be uploaded as a separate repository when done. 
+* ~~ MIPS 32 CPU (mips32.v) - my next big project. A MIPS32 CPU with a significant amount of Instruction Set commands implemented still WIP. Will be uploaded as a separate repository when done~~ .
+* UPDATE: MIPS32 CPU has been completed and added as a repository of its own: https://github.com/oriod-malo/Custom-MIPS32-CPU
 * UART Transmitter (uart_transmitter.v) - a small challenge I put myself to after finishing the FSM Chapter of the book. Implementing an UART with FSM only by looking at its conceptual functionality
 
 ## List of modules based from the book
